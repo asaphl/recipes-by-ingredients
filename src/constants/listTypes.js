@@ -1,0 +1,3 @@
+export const LIST_INVENTORY = "LIST_INVENTORY";
+export const LIST_SHOPPING_LIST = "LIST_SHOPPING_LIST";
+export const LIST_COOKED = "LIST_COOKED";
